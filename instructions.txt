@@ -40,3 +40,5 @@ Voice Commands:
 "Speak!"
 
 "Grasp Things!"
+
+"Raom!"
