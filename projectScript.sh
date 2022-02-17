@@ -44,3 +44,16 @@ $ git commit -m "Add project files"
  create mode 100644 warranty.txt
 $ 
 
+# View your Git commit log
+$ git log
+commit b9833bee2abbd449628d52952ccf1cff463618c5
+Author: codecademy <ccuser@codecademy.com>
+Date:   Thu Feb 17 11:22:16 2022 +0000
+
+    Add project files
+
+# Include line of text in disclaimer.txt and add to staging area and commit
+$ git add disclaimer.txt
+$ git commit -m "Update disclaimer.txt"
+[master d437a12] Update disclaimer.txt
+ 1 file changed, 1 insertion(+), 1 deletion(-)
